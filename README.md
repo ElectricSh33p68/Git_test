@@ -1,2 +1,2 @@
-# Git_test
+# git_test
 Odin Project Lesson
